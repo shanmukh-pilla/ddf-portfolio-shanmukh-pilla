@@ -1,20 +1,20 @@
 # Digital Design and Fabrication Portfolio
 
-## 👤 Student Information
+## Student Information
 - **Name:** Shanmukh Venkat Sai Kumar Pilla
 - **Email:** shanmukh.pilla@uni-oldenburg.de
 - **Matrikelnummer:** 6640537
 
 ---
 
-## 📘 Course
-Digital Design and Fabrication  
-University of Oldenburg  
-Summer Semester 2026
+## Course
+- **Program:** M.Sc. Engineering of Socio-Technical Systems
+- **University:** Carl von Ossietzky Universität Oldenburg
+- **Semester:** Summer Semester 2026
 
 ---
 
-## 📂 Portfolio Overview
+## Portfolio Overview
 This repository contains my blog-style documentation for all exercises completed during the Digital Design and Fabrication course.
 
 Each exercise includes:
@@ -26,7 +26,7 @@ Each exercise includes:
 
 ---
 
-## 🛠 Exercises
+## Exercises
 
 ### Exercise 1: Electrical Circuits
 *(To be updated)*
@@ -54,11 +54,11 @@ Each exercise includes:
 
 ---
 
-## 📸 Documentation Notes
+## Documentation Notes
 - All images and media are created by me unless otherwise stated.
 - External resources are properly referenced.
 
 ---
 
-## 🚀 Progress
+## Progress
 This portfolio will be continuously updated throughout the course.
