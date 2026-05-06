@@ -398,13 +398,3 @@ The transistor switching and PWM tasks were especially useful in understanding h
 
 Overall, this exercise provided a strong introduction to practical electronics and helped me gain confidence in building, testing, and analysing electrical circuits through hands-on experimentation.
 
-
-<p align="center">
-  <a href="videos/task1-switch-demo.mp4">
-    <img src="images/task1-switch.jpg" width="300">
-  </a>
-</p>
-
-<p align="center">
-  <em>Video 1: Click the image to watch the switchable LED circuit demonstration.</em>
-</p>
