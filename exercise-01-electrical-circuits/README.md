@@ -102,6 +102,16 @@ During the assembly process, the behaviour of the LED was observed while togglin
 </p>
 <br>
 
+<p align="center">
+  <a href="https://youtube.com/shorts/RxGRhy5tBQA" target="_blank">
+    <img src="images/task1-switch.jpg" width="300">
+  </a>
+</p>
+
+<p align="center">
+  <em>Video 1: Click the image to watch the switchable LED circuit demonstration.</em>
+</p>
+
 ### Observations
 
 When the switch was closed, the circuit became complete and the LED turned ON. When the switch was opened, the circuit path was interrupted and the LED turned OFF. This demonstrated how switches control the flow of current within an electrical circuit.
