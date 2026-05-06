@@ -1,64 +1,73 @@
 # Digital Design and Fabrication Portfolio
 
-## Student Information
-- **Name:** Shanmukh Venkat Sai Kumar Pilla
-- **Email:** shanmukh.pilla@uni-oldenburg.de
-- **Matrikelnummer:** 6640537
+## Shanmukh Venkat Sai Kumar Pilla
+M.Sc. Engineering of Socio-Technical Systems  
+Carl von Ossietzky Universität Oldenburg  
+Summer Semester 2026  
+
+Email: shanmukh.pilla@uni-oldenburg.de  
+Matrikelnummer: 6640537  
 
 ---
 
-## Course
-- **Program:** M.Sc. Engineering of Socio-Technical Systems
-- **University:** Carl von Ossietzky Universität Oldenburg
-- **Semester:** Summer Semester 2026
+## About This Portfolio
+
+This repository documents my work and learning process throughout the course **Digital Design and Fabrication**.
+
+The portfolio follows a blog-style documentation approach, covering the development of physical and interactive prototypes using digital fabrication technologies, electronics, and computational design methods.
+
+The purpose of this portfolio is not only to present final results, but also to document:
+- Design processes
+- Experimentation and prototyping
+- Technical workflows
+- Challenges and iterations
+- Reflections and learnings
+
+Each exercise entry includes photographs, fabrication steps, tools, materials, design decisions, and observations gathered during the course.
 
 ---
 
-## Portfolio Overview
-This repository contains my blog-style documentation for all exercises completed during the Digital Design and Fabrication course.
+## Course Topics
 
-Each exercise includes:
-- Description of the task
-- Process and steps
-- Tools and materials used
-- Challenges and learnings
-- Final results (images/videos)
+Throughout the semester, the portfolio will cover practical work and experiments related to:
 
----
-
-## Exercises
-
-### Exercise 1: Electrical Circuits
-*(To be updated)*
-
-### Exercise 2: Arduino Alarm Clock
-*(To be updated)*
-
-### Exercise 3: Sensors and Actuators
-*(To be updated)*
-
-### Exercise 4: Interactive Patch Design
-*(To be updated)*
-
-### Exercise 5: CNC Milling
-*(To be updated)*
-
-### Exercise 6: Laser-cut Business Card
-*(To be updated)*
-
-### Exercise 7: CAD Design
-*(To be updated)*
-
-### Exercise 8: 3D Scanning
-*(To be updated)*
+- Electronic Circuits
+- Arduino & Physical Computing
+- Sensors and Actuators
+- Interactive Textile Design
+- CNC Milling
+- Laser Cutting
+- CAD Modelling & 3D Printing
+- 3D Scanning and Digital Reconstruction
 
 ---
 
-## Documentation Notes
-- All images and media are created by me unless otherwise stated.
-- External resources are properly referenced.
+## Portfolio Structure
+
+Each exercise is documented individually and contains:
+- Objective of the exercise
+- Design and fabrication process
+- Software and hardware used
+- Challenges and troubleshooting
+- Final outcomes
+- Personal reflections and improvements
 
 ---
 
-## Progress
-This portfolio will be continuously updated throughout the course.
+## Documentation Approach
+
+This portfolio is continuously updated during the semester as new exercises, prototypes, and fabrication experiments are completed.
+
+All media, photographs, sketches, and fabrication results are created and documented by me unless stated otherwise. External references and resources are properly credited where applicable.
+
+---
+
+## Repository Purpose
+
+This repository serves as:
+- A course portfolio
+- A fabrication process journal
+- A technical documentation archive
+- A collection of iterative design experiments in digital fabrication
+
+---
