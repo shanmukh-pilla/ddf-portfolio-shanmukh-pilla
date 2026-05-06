@@ -397,3 +397,14 @@ One of the most interesting parts of the exercise was observing how small change
 The transistor switching and PWM tasks were especially useful in understanding how low-voltage control signals can operate higher-power devices and how PWM can efficiently control brightness behaviour. Troubleshooting incorrect connections and adjusting the circuit configurations also helped me improve my practical understanding of electronic prototyping and breadboard-based circuit assembly.
 
 Overall, this exercise provided a strong introduction to practical electronics and helped me gain confidence in building, testing, and analysing electrical circuits through hands-on experimentation.
+
+
+<p align="center">
+  <a href="videos/task1-switch-demo.mp4">
+    <img src="images/task1-switch.jpg" width="300">
+  </a>
+</p>
+
+<p align="center">
+  <em>Video 1: Click the image to watch the switchable LED circuit demonstration.</em>
+</p>
