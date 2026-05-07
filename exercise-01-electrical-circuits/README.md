@@ -1,3 +1,11 @@
+
+https://github.com/user-attachments/assets/f6756cbe-1f58-4985-be1e-133fbaeaa7ab
+
+https://github.com/user-attachments/assets/47efb1a0-eb19-4f89-bbda-8a8f3e41b378
+
+https://github.com/user-attachments/assets/b62c3269-fd47-46fd-84d9-88a673220957
+
+https://github.com/user-attachments/assets/e1ea4948-1f0a-40ad-b75b-151c645ec627
 # Exercise 1 — Electrical Circuits
 
 ## Overview
@@ -91,24 +99,7 @@ The circuit was assembled according to the provided schematic by integrating a 2
 During the assembly process, the behaviour of the LED was observed while toggling the switch between ON and OFF states. The circuit was also tested by reversing the switch orientation to understand whether the switch direction affects circuit operation.
 
 <br>
-<p align="center">
-  <video width="300" height="400" controls>
-    <source src="videos/task1-switch-demo.mp4" type="video/mp4">
-  </video>
-</p>
-
-<p align="center">
-  <em>Video 1: Demonstration of the switchable LED circuit and LED behaviour during switching.</em>
-</p>
-<br>
-
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/d638edeb-7265-4c49-bae7-29dc26a2ec74"
-         width="260"
-         controls>
-  </video>
-</p>
+https://github.com/user-attachments/assets/4720eb18-fc84-4e5e-9113-05f376831ba0
 
 <p align="center">
   <em>
@@ -154,7 +145,6 @@ While assembling the circuit, careful attention was required to correctly connec
 </p>
 <br>
 
-
 ### Measurements
 
 | LED Position | Measured VLED (V) | Measured V2 (V) |
@@ -172,11 +162,7 @@ It was observed that increasing the resistance reduced the current flow and decr
 This task also provided practical understanding of how potentiometers are used for analog-style control in electronic systems.
 
 <br>
-<p align="center">
-  <video width="300" height="400" controls>
-    <source src="videos/task1.3-potentiometer-demo.mp4" type="video/mp4">
-  </video>
-</p>
+https://github.com/user-attachments/assets/548fd5ca-5ccc-49f4-8d58-976e99760214
 
 <p align="center">
   <em>Video 2: Demonstration of LED brightness control using the potentiometer.</em>
@@ -248,11 +234,7 @@ This task demonstrated how a low-voltage control signal can be used to control a
 Initially, identifying the transistor terminals and understanding the current flow required careful testing and troubleshooting before the circuit functioned correctly.
 
 <br>
-<p align="center">
-  <video width="300" height="400" controls>
-    <source src="videos/task2.1-switchable-led-strip.mp4" type="video/mp4">
-  </video>
-</p>
+https://github.com/user-attachments/assets/32271ee6-1643-4ae8-98d2-3cc45a3618f6
 
 <p align="center">
   <em>Video 3: Demonstration of the MOSFET-based LED strip switching behaviour.</em>
@@ -344,43 +326,18 @@ This experiment helped in understanding the relationship between switching frequ
 
 
 <br>
-<table align="center">
-<tr>
 
-<td align="center">
-  <video width="180" controls>
-    <source src="videos/frequency-5hz.mp4" type="video/mp4">
-  </video>
-  <br>
-  <strong>5 Hz</strong>
-</td>
+https://github.com/user-attachments/assets/ecfbab4f-49d6-4cb8-9514-043f30876970
+5 Hz
 
-<td align="center">
-  <video width="180" controls>
-    <source src="videos/frequency-25hz.mp4" type="video/mp4">
-  </video>
-  <br>
-  <strong>25 Hz</strong>
-</td>
+https://github.com/user-attachments/assets/05f9d1a6-f5cb-454b-bb9f-948a53ebf4b2
+25 Hz
 
-<td align="center">
-  <video width="180" controls>
-    <source src="videos/frequency-45hz.mp4" type="video/mp4">
-  </video>
-  <br>
-  <strong>45 Hz</strong>
-</td>
+https://github.com/user-attachments/assets/13f4420c-7a65-4087-8b39-5d393255bfdb
+45 Hz
 
-<td align="center">
-  <video width="180" controls>
-    <source src="videos/frequency-100hz.mp4" type="video/mp4">
-  </video>
-  <br>
-  <strong>100 Hz</strong>
-</td>
-
-</tr>
-</table>
+https://github.com/user-attachments/assets/30c59719-092c-46e8-99f3-01d1f9c26b83
+100 Hz
 
 <p align="center">
   <em>
