@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/97877438-a31a-423c-b2b4-e333b457af2f
-
 # Exercise 1 — Electrical Circuits
 
 ## Overview
@@ -106,9 +102,24 @@ During the assembly process, the behaviour of the LED was observed while togglin
 </p>
 <br>
 
-https://github.com/user-attachments/assets/d638edeb-7265-4c49-bae7-29dc26a2ec74
 
+<br>
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/d638edeb-7265-4c49-bae7-29dc26a2ec74"
+         width="300"
+         height="400"
+         controls>
+  </video>
+</p>
+
+<p align="center">
+  <em>
+    Video 1: Demonstration of the switchable LED circuit and LED behaviour during switching.
+  </em>
+</p>
+
+<br>
 
 
 ### Observations
