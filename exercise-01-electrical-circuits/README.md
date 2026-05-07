@@ -91,6 +91,7 @@ The circuit was assembled according to the provided schematic by integrating a 2
 During the assembly process, the behaviour of the LED was observed while toggling the switch between ON and OFF states. The circuit was also tested by reversing the switch orientation to understand whether the switch direction affects circuit operation.
 
 <br>
+
 https://github.com/user-attachments/assets/4720eb18-fc84-4e5e-9113-05f376831ba0
 
 <p align="center">
