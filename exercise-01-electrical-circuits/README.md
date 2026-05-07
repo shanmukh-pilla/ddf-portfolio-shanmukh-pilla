@@ -1,11 +1,3 @@
-
-https://github.com/user-attachments/assets/f6756cbe-1f58-4985-be1e-133fbaeaa7ab
-
-https://github.com/user-attachments/assets/47efb1a0-eb19-4f89-bbda-8a8f3e41b378
-
-https://github.com/user-attachments/assets/b62c3269-fd47-46fd-84d9-88a673220957
-
-https://github.com/user-attachments/assets/e1ea4948-1f0a-40ad-b75b-151c645ec627
 # Exercise 1 — Electrical Circuits
 
 ## Overview
