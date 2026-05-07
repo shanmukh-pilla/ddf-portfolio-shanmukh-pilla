@@ -155,6 +155,7 @@ It was observed that increasing the resistance reduced the current flow and decr
 This task also provided practical understanding of how potentiometers are used for analog-style control in electronic systems.
 
 <br>
+
 https://github.com/user-attachments/assets/548fd5ca-5ccc-49f4-8d58-976e99760214
 
 <p align="center">
@@ -227,6 +228,7 @@ This task demonstrated how a low-voltage control signal can be used to control a
 Initially, identifying the transistor terminals and understanding the current flow required careful testing and troubleshooting before the circuit functioned correctly.
 
 <br>
+
 https://github.com/user-attachments/assets/32271ee6-1643-4ae8-98d2-3cc45a3618f6
 
 <p align="center">
@@ -321,15 +323,19 @@ This experiment helped in understanding the relationship between switching frequ
 <br>
 
 https://github.com/user-attachments/assets/ecfbab4f-49d6-4cb8-9514-043f30876970
+
 5 Hz
 
 https://github.com/user-attachments/assets/05f9d1a6-f5cb-454b-bb9f-948a53ebf4b2
+
 25 Hz
 
 https://github.com/user-attachments/assets/13f4420c-7a65-4087-8b39-5d393255bfdb
+
 45 Hz
 
 https://github.com/user-attachments/assets/30c59719-092c-46e8-99f3-01d1f9c26b83
+
 100 Hz
 
 <p align="center">
