@@ -102,10 +102,10 @@ During the assembly process, the behaviour of the LED was observed while togglin
 </p>
 <br>
 
+
 <p align="center">
   <video src="https://github.com/user-attachments/assets/d638edeb-7265-4c49-bae7-29dc26a2ec74"
-         width="300"
-         height="400"
+         width="260"
          controls>
   </video>
 </p>
@@ -115,8 +115,6 @@ During the assembly process, the behaviour of the LED was observed while togglin
     Video 1: Demonstration of the switchable LED circuit and LED behaviour during switching.
   </em>
 </p>
-
-<br>
 
 
 ### Observations
