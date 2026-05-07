@@ -102,9 +102,6 @@ During the assembly process, the behaviour of the LED was observed while togglin
 </p>
 <br>
 
-
-<br>
-
 <p align="center">
   <video src="https://github.com/user-attachments/assets/d638edeb-7265-4c49-bae7-29dc26a2ec74"
          width="300"
