@@ -100,6 +100,7 @@ https://github.com/user-attachments/assets/4720eb18-fc84-4e5e-9113-05f376831ba0
   </em>
 </p>
 
+<br>
 
 ### Observations
 
@@ -319,31 +320,44 @@ At higher frequencies, the flickering effect almost disappeared completely, demo
 
 This experiment helped in understanding the relationship between switching frequency and human visual perception in PWM-controlled systems.
 
-
 <br>
 
 https://github.com/user-attachments/assets/ecfbab4f-49d6-4cb8-9514-043f30876970
 
-5 Hz
+<p align="center">
+  <em>
+    Video 4: LED strip behaviour observed at 5 Hz frequency. 
+    The LED produced clearly visible blinking because the switching speed was slow enough for the ON and OFF states to be distinguished individually.
+  </em>
+</p>
 
 https://github.com/user-attachments/assets/05f9d1a6-f5cb-454b-bb9f-948a53ebf4b2
 
-25 Hz
+<p align="center">
+  <em>
+    Video 5: LED strip behaviour observed at 25 Hz frequency. 
+    The blinking became faster and less aggressive compared to 5 Hz, although flickering was still noticeable during observation.
+  </em>
+</p>
 
 https://github.com/user-attachments/assets/13f4420c-7a65-4087-8b39-5d393255bfdb
 
-45 Hz
+<p align="center">
+  <em>
+    Video 6: LED strip behaviour observed at 45 Hz frequency. 
+    The flickering effect reduced significantly and the LED strip appeared more visually stable due to the increased switching speed.
+  </em>
+</p>
 
 https://github.com/user-attachments/assets/30c59719-092c-46e8-99f3-01d1f9c26b83
 
-100 Hz
-
 <p align="center">
   <em>
-    Video 4: Observation of LED strip behaviour at different PWM switching frequencies. 
-    Lower frequencies produced visible blinking, while higher frequencies resulted in smoother and more stable illumination.
+    Video 7: LED strip behaviour observed at 100 Hz frequency. 
+    The switching became too fast to be clearly detected by the human eye, making the LED strip appear almost continuously ON with minimal visible flickering.
   </em>
 </p>
+
 <br>
 
 ---
