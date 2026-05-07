@@ -102,6 +102,10 @@ During the assembly process, the behaviour of the LED was observed while togglin
 </p>
 <br>
 
+
+https://github.com/user-attachments/assets/cf01e4c8-3e03-4ee3-b5d9-30f51c7ff5cc
+
+
 ### Observations
 
 When the switch was closed, the circuit became complete and the LED turned ON. When the switch was opened, the circuit path was interrupted and the LED turned OFF. This demonstrated how switches control the flow of current within an electrical circuit.
