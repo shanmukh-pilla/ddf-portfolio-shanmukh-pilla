@@ -330,6 +330,7 @@ https://github.com/user-attachments/assets/ecfbab4f-49d6-4cb8-9514-043f30876970
     The LED produced clearly visible blinking because the switching speed was slow enough for the ON and OFF states to be distinguished individually.
   </em>
 </p>
+<br>
 
 https://github.com/user-attachments/assets/05f9d1a6-f5cb-454b-bb9f-948a53ebf4b2
 
@@ -339,6 +340,7 @@ https://github.com/user-attachments/assets/05f9d1a6-f5cb-454b-bb9f-948a53ebf4b2
     The blinking became faster and less aggressive compared to 5 Hz, although flickering was still noticeable during observation.
   </em>
 </p>
+<br>
 
 https://github.com/user-attachments/assets/13f4420c-7a65-4087-8b39-5d393255bfdb
 
@@ -348,6 +350,7 @@ https://github.com/user-attachments/assets/13f4420c-7a65-4087-8b39-5d393255bfdb
     The flickering effect reduced significantly and the LED strip appeared more visually stable due to the increased switching speed.
   </em>
 </p>
+<br>
 
 https://github.com/user-attachments/assets/30c59719-092c-46e8-99f3-01d1f9c26b83
 
