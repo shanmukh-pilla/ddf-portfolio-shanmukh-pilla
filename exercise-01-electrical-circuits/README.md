@@ -374,7 +374,6 @@ The task also improved my understanding of transistor switching, PWM control sig
 ---
 
 <br>
-<br>
 
 # Conclusion and Reflection
 
