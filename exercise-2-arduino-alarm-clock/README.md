@@ -100,7 +100,7 @@ Further testing was then performed to display text on the LCD screen and underst
 <br>
 
 <p align="center">
-  <img src="images/lcd-test-output.jpg" width="600">
+  <img src="images/lcd-test-output.jpg" width="380" height="580">
 </p>
 
 <p align="center">
