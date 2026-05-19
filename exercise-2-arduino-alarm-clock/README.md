@@ -31,6 +31,8 @@ After assembling the circuit, the provided `buzzer_test.ino` sketch was uploaded
 
 Initially, understanding the Arduino pin configuration and uploading code to the board required careful setup and troubleshooting before the buzzer operated correctly.
 
+<br>
+
 <p align="center">
   <img src="images/buzzer-circuit.jpg" width="600">
 </p>
@@ -41,6 +43,8 @@ Initially, understanding the Arduino pin configuration and uploading code to the
   </em>
 </p>
 
+<br>
+
 ## Observations
 After uploading the test program, the buzzer successfully produced sound according to the programmed timing sequence. By modifying the delay values in the code, different beep intervals and sound patterns were observed.
 
@@ -48,11 +52,71 @@ It was observed that the Arduino digital output pins can directly control simple
 
 During testing, changing the delay duration produced noticeable differences in the speed and rhythm of the buzzer sound. The recorded video captured the buzzer behaviour while running the provided test code.
 
+<br>
+
 https://github.com/user-attachments/assets/068e5b70-0146-4c19-aabb-8d2d0d234a65
 
 **Video 1:** Demonstration of buzzer behaviour using different delay timings in the provided Arduino test program.
+
+<br>
 
 ## Reflection
 This task provided my first practical experience with Arduino programming and digital actuator control. It also helped me understand how electronic components can be controlled programmatically using simple Arduino code and digital output signals.
 
 Through testing different delay values and observing the buzzer behaviour, I also gained a better understanding of how timing functions influence hardware operation in embedded systems.
+
+---
+
+# Task 2 — Connecting the LCD Screen
+
+## Objective
+The objective of this task was to interface a 16x2 I2C LCD display with the Arduino Uno and observe how information and text can be displayed using I2C communication.
+
+## Components Required
+- Arduino Uno
+- 16x2 I2C LCD Display
+- Breadboard
+- Male-male jumper wires
+
+## Circuit Assembly
+The LCD display was connected according to the provided schematic using the SDA and SCL communication pins of the Arduino Uno. Since the display communicates using the I2C protocol, only four connections were required: VCC, GND, SDA, and SCL.
+
+After assembling the circuit, the LCD was tested to identify its address and verify the display output. Initially, the display backlight turned ON but no visible text appeared on the screen. After checking the setup and testing the connections, the display output became visible and the LCD operated correctly.
+
+Further testing was then performed to display text on the LCD screen and understand how information can be shown using Arduino.
+
+<br>
+
+<p align="center">
+  <img src="images/lcd-i2c-scanner.png" width="600">
+</p>
+
+<p align="center">
+  <em>
+    Figure 2: LCD output displaying the detected address of the LCD module.
+  </em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="images/lcd-test-output.jpg" width="600">
+</p>
+
+<p align="center">
+  <em>
+    Figure 3: Testing text output on the LCD display.
+  </em>
+</p>
+
+<br>
+
+## Observations
+During testing, the LCD successfully displayed the detected address of the module and later displayed text output correctly on the screen. This demonstrated how the Arduino communicates with the LCD using I2C communication.
+
+It was observed that the LCD can display information clearly while using only minimal wiring connections through the I2C interface.
+
+This task also provided practical understanding of LCD interfacing and display-based output systems in Arduino projects.
+
+## Reflection
+This task improved my understanding of I2C communication and LCD interfacing using Arduino. Testing the LCD display and observing the output helped me better understand how embedded systems can present information visually through display modules.
