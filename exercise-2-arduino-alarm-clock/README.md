@@ -178,7 +178,7 @@ During the setup, the buttons were tested using Arduino input readings to detect
 
 <p align="center">
   <em>
-    Figure 6: Testing push button inputs using Arduino and displaying button interaction on the LCD screen.
+    Figure 4: Testing push button inputs using Arduino and displaying button interaction on the LCD screen.
   </em>
 </p>
 
