@@ -1,4 +1,4 @@
-# Exercise 2 — Arduino Alarm Clock
+# Exercise 2: Introduction to Arduino
 
 ## Overview
 This exercise introduced the fundamentals of Arduino-based prototyping through the development of a functional alarm clock system using multiple electronic components and communication interfaces. The objective of the exercise was to understand how microcontrollers interact with external hardware devices such as buzzers, LCD displays, real-time clock (RTC) modules, and push buttons to create an interactive embedded system.
