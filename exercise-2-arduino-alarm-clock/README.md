@@ -67,7 +67,7 @@ Through testing different delay values and observing the buzzer behaviour, I als
 
 ---
 
-# Task 2 — Connecting the LCD Screen
+# Sub-circuit 2 – Connec7ng the LCD screen
 
 ## Objective
 The objective of this task was to interface a 16x2 I2C LCD display with the Arduino Uno and observe how information and text can be displayed using I2C communication.
