@@ -128,6 +128,8 @@ The RTC module was connected according to the provided schematic using the SDA a
 
 After assembling the circuit, the RTC module was tested and connected successfully with the LCD display. The current time stored in the RTC module was then displayed on the LCD screen through the Arduino setup.
 
+<br>
+
 <p align="center">
   <img src="images/rtc-lcd-output.jpg" width="700">
 </p>
@@ -137,6 +139,8 @@ After assembling the circuit, the RTC module was tested and connected successful
     Figure 3: Displaying the current time on the LCD using the RTC module.
   </em>
 </p>
+
+<br>
 
 ## Observations
 During testing, the RTC module successfully communicated with the Arduino and displayed the current time on the LCD screen. It was observed that both the LCD display and RTC module could operate together using the same I2C communication lines.
