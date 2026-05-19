@@ -67,7 +67,7 @@ Through testing different delay values and observing the buzzer behaviour, I als
 
 ---
 
-# Sub-circuit 2 – Connec7ng the LCD screen
+# Sub-circuit 2 – Connecting the LCD screen
 
 ## Objective
 The objective of this task was to interface a 16x2 I2C LCD display with the Arduino Uno and observe how information and text can be displayed using I2C communication.
@@ -88,18 +88,6 @@ Further testing was then performed to display text on the LCD screen and underst
 <br>
 
 <p align="center">
-  <img src="images/lcd-i2c-scanner.png" width="600">
-</p>
-
-<p align="center">
-  <em>
-    Figure 2: LCD output displaying the detected address of the LCD module.
-  </em>
-</p>
-
-<br>
-
-<p align="center">
   <img src="images/lcd-test-output.jpg" width="380" height="580">
 </p>
 
@@ -112,7 +100,7 @@ Further testing was then performed to display text on the LCD screen and underst
 <br>
 
 ## Observations
-During testing, the LCD successfully displayed the detected address of the module and later displayed text output correctly on the screen. This demonstrated how the Arduino communicates with the LCD using I2C communication.
+During testing, the LCD successfully displayed text output correctly on the screen. This demonstrated how the Arduino communicates with the LCD using I2C communication.
 
 It was observed that the LCD can display information clearly while using only minimal wiring connections through the I2C interface.
 
