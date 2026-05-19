@@ -149,3 +149,47 @@ This task also demonstrated how the RTC module can continuously maintain and pro
 
 ## Reflection
 This task improved my understanding of RTC modules, I2C communication, and multi-device interfacing using Arduino. Observing the real-time clock output on the LCD helped me better understand how embedded systems process and display time-based information.
+
+---
+
+# Sub-circuit 4 – Using the Push Button
+
+## Objective
+The objective of this task was to interface push buttons with the Arduino Uno and understand how button inputs can be detected using digital input pins and pull-up resistor configurations.
+
+## Components Required
+- Arduino Uno
+- Push Buttons
+- 16x2 I2C LCD Display
+- Breadboard
+- Male-male jumper wires
+- LEDs
+
+## Circuit Assembly
+The push buttons were connected to the Arduino Uno according to the provided schematic using digital input pins. The circuit was assembled on a breadboard together with LEDs and the LCD display to observe button interaction and system response.
+
+During the setup, the buttons were tested using Arduino input readings to detect button presses correctly. The LCD display was also integrated into the setup to visually observe the button interaction and display corresponding output information.
+
+<br>
+
+<p align="center">
+  <img src="images/push-button-lcd-setup.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 6: Testing push button inputs using Arduino and displaying button interaction on the LCD screen.
+  </em>
+</p>
+
+<br>
+
+## Observations
+During testing, the push buttons successfully interacted with the Arduino system and the corresponding output was displayed on the LCD screen. It was observed that the Arduino could detect button presses through digital input signals and respond accordingly.
+
+The LEDs and LCD display helped in visually confirming the behaviour of the push buttons during interaction.
+
+This task also introduced the practical usage of pull-up resistor configurations for stable button input detection in Arduino-based systems.
+
+## Reflection
+This task improved my understanding of digital input handling, push button interfacing, and user interaction in embedded systems. Testing the push buttons together with the LCD display helped me better understand how Arduino systems can process and respond to external user inputs.
