@@ -193,3 +193,183 @@ This task also introduced the practical usage of pull-up resistor configurations
 
 ## Reflection
 This task improved my understanding of digital input handling, push button interfacing, and user interaction in embedded systems. Testing the push buttons together with the LCD display helped me better understand how Arduino systems can process and respond to external user inputs.
+
+---
+
+# Building a Functional Arduino Alarm Clock
+
+## Objective
+The objective of this final task was to integrate all previously tested sub-circuits into a complete functional alarm clock system using Arduino Uno.
+
+The system was designed to:
+- Display the current time using the RTC module
+- Allow alarm time configuration using push buttons
+- Enable and disable the alarm without modifying the code
+- Trigger a buzzer alarm when the configured time matches the RTC time
+- Display all system states and interactions on the LCD screen
+
+This final task combined multiple electronic components, embedded programming concepts, and user interaction into a single functional embedded system.
+
+---
+
+## Components Used
+- Arduino Uno
+- RTC DS1307 Module
+- 16x2 I2C LCD Display
+- Push Buttons
+- Buzzer
+- Breadboard
+- Male-male jumper wires
+
+---
+
+## Circuit Integration
+The complete alarm clock system was assembled by integrating the RTC module, LCD display, buzzer, and push buttons into a single Arduino-based setup.
+
+The RTC module continuously provided real-time clock data to the Arduino through the I2C communication interface. The LCD display was used to display the current time, alarm configuration, and alarm status messages.
+
+The push buttons were configured for different alarm operations:
+- **Red Button** → Open alarm setup menu
+- **Green Button** → Increase alarm minutes
+- **Blue Button** → Enable the alarm
+- **Final Alarm State** → Trigger buzzer and display alarm notification
+
+The Arduino continuously monitored the RTC time and compared it with the configured alarm time. When both values matched, the buzzer was activated and the LCD displayed the alarm notification.
+
+---
+
+# Alarm Clock Functionalities
+
+## 1. Opening the Alarm Setup Menu
+Pressing the red button opened the alarm setup interface on the LCD display.
+
+Example LCD Output:
+```text
+Alarm set:
+12:33
+```
+
+<br>
+
+<p align="center">
+  <img src="images/red-button-alarm-set.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 5: Opening the alarm setup menu using the red push button.
+  </em>
+</p>
+
+<br>
+
+---
+
+## 2. Increasing Alarm Minutes
+Pressing the green button increased the configured alarm minute value.
+
+Example LCD Output:
+```text
+Alarm set:
+12:35
+```
+
+<br>
+
+<p align="center">
+  <img src="images/green-button-minute-increase.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 6: Increasing the alarm minute value using the green push button.
+  </em>
+</p>
+
+<br>
+
+---
+
+## 3. Activating the Alarm
+Pressing the blue button enabled the configured alarm.
+
+Example LCD Output:
+```text
+Time: 13:34:00
+Alarm is ON
+```
+
+<br>
+
+<p align="center">
+  <img src="images/blue-button-alarm-on.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 7: Activating the configured alarm using the blue push button.
+  </em>
+</p>
+
+<br>
+
+---
+
+## 4. Alarm Trigger
+When the RTC time matched the configured alarm time, the buzzer was activated and the LCD displayed the alarm notification.
+
+Example LCD Output:
+```text
+Time: 13:34:00
+Alarm Rings!
+```
+
+<br>
+
+<p align="center">
+  <img src="images/alarm-rings.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 8: Alarm activation when the configured alarm time matches the RTC time.
+  </em>
+</p>
+
+<br>
+
+---
+
+## Observations
+During testing, the alarm clock system successfully performed all required operations:
+- Real-time clock monitoring
+- Alarm configuration using push buttons
+- LCD-based system feedback
+- Alarm activation and buzzer triggering
+
+The project demonstrated successful integration of multiple electronic devices using Arduino and showed how embedded systems can process real-time information while responding to user interaction.
+
+It was also observed that combining RTC communication, button inputs, LCD output, and actuator control into a single system requires careful hardware wiring and structured program logic.
+
+---
+
+## Reflection
+This final task provided practical experience in designing and implementing a complete embedded system using Arduino.
+
+Through this project, I improved my understanding of:
+- Real-time embedded programming
+- Multi-component hardware integration
+- LCD communication using I2C
+- RTC interfacing
+- Push button input handling
+- Alarm logic implementation
+- Embedded system debugging and testing
+
+The exercise also demonstrated how individual electronic modules can be combined to create a fully interactive and functional real-world application.
+
+---
+
+## Conclusion
+The final alarm clock system successfully integrated all sub-circuit functionalities into a single embedded application capable of displaying time, configuring alarms, and triggering notifications automatically.
+
+This exercise strengthened practical knowledge of Arduino programming, hardware interfacing, real-time systems, and interactive embedded design. It also provided hands-on experience in developing a complete prototype by combining sensors, displays, user inputs, and output devices into one functional system.
