@@ -81,7 +81,7 @@ The objective of this task was to interface a 16x2 I2C LCD display with the Ardu
 ## Circuit Assembly
 The LCD display was connected according to the provided schematic using the SDA and SCL communication pins of the Arduino Uno. Since the display communicates using the I2C protocol, only four connections were required: VCC, GND, SDA, and SCL.
 
-After assembling the circuit, the LCD was tested to identify its address and verify the display output. Initially, the display backlight turned ON but no visible text appeared on the screen. After checking the setup and testing the connections, the display output became visible and the LCD operated correctly.
+After assembling the circuit, the LCD was tested to verify the display output. Initially, the display backlight turned ON, but no visible text appeared on the screen. After checking the circuit connections and testing the setup further, the display output became visible and the LCD operated correctly.
 
 Further testing was then performed to display text on the LCD screen and understand how information can be shown using Arduino.
 
@@ -93,7 +93,7 @@ Further testing was then performed to display text on the LCD screen and underst
 
 <p align="center">
   <em>
-    Figure 3: Testing text output on the LCD display.
+    Figure 2: Testing text output on the LCD display.
   </em>
 </p>
 
