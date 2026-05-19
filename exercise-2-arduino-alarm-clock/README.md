@@ -252,7 +252,7 @@ Alarm set:
 <br>
 
 <p align="center">
-  <img src="images/red-button-alarm-set.jpg" width="700">
+  <img src="images/red-button-alarm-set.jpg" width="380" height="580">
 </p>
 
 <p align="center">
@@ -277,7 +277,7 @@ Alarm set:
 <br>
 
 <p align="center">
-  <img src="images/green-button-minute-increase.jpg" width="700">
+  <img src="images/green-button-minute-increase.jpg" width="380" height="580">
 </p>
 
 <p align="center">
@@ -302,7 +302,7 @@ Alarm is ON
 <br>
 
 <p align="center">
-  <img src="images/blue-button-alarm-on.jpg" width="700">
+  <img src="images/blue-button-alarm-on.jpg" width="380" height="580">
 </p>
 
 <p align="center">
@@ -327,7 +327,7 @@ Alarm Rings!
 <br>
 
 <p align="center">
-  <img src="images/alarm-rings.jpg" width="700">
+  <img src="images/alarm-rings.jpg" width="380" height="580">
 </p>
 
 <p align="center">
