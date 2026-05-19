@@ -245,7 +245,7 @@ This task provided practical experience with transistor-based switching circuits
 ---
 <br>
 
-## Task 2.2 — Dimmable LED Strip using PWM
+## Task 2.2 – Dimmable LED Strip
 
 ### Objective
 
