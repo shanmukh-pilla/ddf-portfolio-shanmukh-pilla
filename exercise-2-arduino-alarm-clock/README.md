@@ -108,3 +108,40 @@ This task also provided practical understanding of LCD interfacing and display-b
 
 ## Reflection
 This task improved my understanding of I2C communication and LCD interfacing using Arduino. Testing the LCD display and observing the output helped me better understand how embedded systems can present information visually through display modules.
+
+---
+
+# Sub-circuit 3 – Expanding the setup with a Real Time Clock
+
+## Objective
+The objective of this task was to interface a Real Time Clock (RTC) module with the Arduino Uno and display the current time on the LCD screen using I2C communication.
+
+## Components Required
+- Arduino Uno
+- RTC Module
+- 16x2 I2C LCD Display
+- Breadboard
+- Male-male jumper wires
+
+## Circuit Assembly
+The RTC module was connected according to the provided schematic using the SDA and SCL communication pins of the Arduino Uno. Since both the LCD display and RTC module use I2C communication, they shared the same communication lines while operating together in the circuit.
+
+After assembling the circuit, the RTC module was tested and connected successfully with the LCD display. The current time stored in the RTC module was then displayed on the LCD screen through the Arduino setup.
+
+<p align="center">
+  <img src="images/rtc-lcd-output.jpg" width="700">
+</p>
+
+<p align="center">
+  <em>
+    Figure 3: Displaying the current time on the LCD using the RTC module.
+  </em>
+</p>
+
+## Observations
+During testing, the RTC module successfully communicated with the Arduino and displayed the current time on the LCD screen. It was observed that both the LCD display and RTC module could operate together using the same I2C communication lines.
+
+This task also demonstrated how the RTC module can continuously maintain and provide real-time information for embedded system applications.
+
+## Reflection
+This task improved my understanding of RTC modules, I2C communication, and multi-device interfacing using Arduino. Observing the real-time clock output on the LCD helped me better understand how embedded systems process and display time-based information.
