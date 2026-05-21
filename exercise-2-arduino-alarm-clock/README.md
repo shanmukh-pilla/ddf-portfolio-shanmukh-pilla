@@ -330,6 +330,8 @@ https://github.com/user-attachments/assets/d0bc3aba-67f6-4084-85b2-5c07d9d57699
 <br>
 
 **Video 2:** Alarm activation when the configured alarm time matches the RTC time
+
+<br>
 <br>
 
 <p align="center">
