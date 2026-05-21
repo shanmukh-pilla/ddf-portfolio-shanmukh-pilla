@@ -323,7 +323,13 @@ Example LCD Output:
 Time: 13:34:00
 Alarm Rings!
 ```
+<br>
 
+https://github.com/user-attachments/assets/d0bc3aba-67f6-4084-85b2-5c07d9d57699
+
+<br>
+
+**Video 2:** Alarm activation when the configured alarm time matches the RTC time
 <br>
 
 <p align="center">
@@ -332,7 +338,7 @@ Alarm Rings!
 
 <p align="center">
   <em>
-    Figure 8: Alarm activation when the configured alarm time matches the RTC time.
+    Figure 8: Alarm activation when the configured alarm time matches the RTC time
   </em>
 </p>
 
