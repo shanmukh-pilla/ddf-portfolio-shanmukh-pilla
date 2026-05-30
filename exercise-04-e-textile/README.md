@@ -16,11 +16,17 @@ One of the first challenges was deciding what kind of textile artifact I wanted 
 
 I first created a sketch to plan the shape, LED placement, and battery holder position before transferring the design onto the fabric.
 
-![Initial Sketch](images/sketch.jpg)
+<br>
 
-**Figure 1:** Initial sketch of the Blue Eye Mask showing the planned shape and placement of electronic components before fabrication.
+<p align="center">
+  <img src="images/sketch.jpeg" alt="Initial Sketch" width="700">
+</p>
 
-Creating the sketch beforehand helped me visualize the conductive pathways and reduced the likelihood of mistakes during assembly.
+<p align="center">
+  <em>Figure 1: Initial sketch of the Blue Eye Mask showing the planned shape and placement of electronic components before fabrication.</em>
+</p>
+
+<br>
 
 ---
 
@@ -46,11 +52,17 @@ To solve this issue, I modified the routing of the conductive thread and ensured
 
 After making these corrections, I tested the circuit again and all LEDs illuminated successfully.
 
-![Working Circuit](images/working-circuit.jpg)
+<br>
 
-**Figure 2:** Completed soft circuit after correcting the conductive thread routing. All LEDs were successfully powered through the coin-cell battery holder.
+<p align="center">
+  <img src="images/working-circuit.jpeg" alt="Working Circuit" width="700">
+</p>
 
-The troubleshooting process was one of the most valuable parts of the exercise because it demonstrated how small mistakes in conductive stitching can directly affect the functionality of a soft circuit.
+<p align="center">
+  <em>Figure 2: Completed soft circuit after correcting the conductive thread routing. All LEDs were successfully powered through the coin-cell battery holder.</em>
+</p>
+
+<br>
 
 ---
 
@@ -58,13 +70,13 @@ The troubleshooting process was one of the most valuable parts of the exercise b
 
 After confirming that the circuit was functioning correctly, I documented the working prototype.
 
-<video controls width="700">
-  <source src="videos/blue-mask-demo.mp4" type="video/mp4">
-</video>
+<br>
+
+https://github.com/user-attachments/assets/238ba551-1d9f-49b8-81b1-94eb14566823
 
 **Video 1:** Demonstration of the completed Blue Eye Mask prototype with all LEDs successfully illuminated after testing and debugging.
 
-The video confirms that the conductive thread connections, battery holder, and LEDs were all functioning as intended.
+<br>
 
 ---
 
@@ -74,9 +86,17 @@ Once the circuit was fully operational, I added a second fabric layer over the e
 
 This step transformed the prototype from an exposed circuit into a more complete textile artifact.
 
-![Final Blue Eye Mask](images/final-mask.jpg)
+<br>
 
-**Figure 3:** Final version of the Blue Eye Mask after adding the top fabric layer to conceal the electronic components while allowing the LED illumination to remain visible.
+<p align="center">
+  <img src="images/final-mask.jpeg" alt="Final Blue Eye Mask" width="700">
+</p>
+
+<p align="center">
+  <em>Figure 3: Final version of the Blue Eye Mask after adding the top fabric layer to conceal the electronic components while allowing the LED illumination to remain visible.</em>
+</p>
+
+<br>
 
 ---
 
@@ -98,4 +118,4 @@ The most challenging aspects were working with conductive thread, maintaining cl
 
 What I found most interesting was discovering how electronics can be embedded directly into textile materials without relying on rigid structures or traditional wiring. This exercise expanded my understanding of wearable technology and demonstrated how everyday materials can become interactive systems.
 
-Overall, the Blue Eye Mask successfully introduced me to the fundamentals of E-Textiles and provided a strong foundation for exploring more advanced wearable and interactive textile applications in future projects.
+Overall, this exercise successfully introduced me to the fundamentals of E-Textiles and provided a strong foundation for exploring more advanced wearable and interactive textile applications in future projects.
