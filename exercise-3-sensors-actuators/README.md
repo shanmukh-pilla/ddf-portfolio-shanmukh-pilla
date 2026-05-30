@@ -149,7 +149,7 @@ The pneumatic system was connected to the inflatable pillow and tested repeatedl
 <br>
 
 <p align="center">
-  <img src="images/ultrasonic-sensor-integration.jpeg" width="600">
+  <img src="images/ultrasonic-sensor-integration.jpg" width="600">
 </p>
 
 <p align="center">
