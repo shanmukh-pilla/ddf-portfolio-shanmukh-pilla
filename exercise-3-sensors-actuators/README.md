@@ -96,7 +96,7 @@ The successful implementation demonstrated the importance of understanding both 
 
 <br>
 
-https://github.com/user-attachments/assets/d19f7ef1-2010-409b-9411-1327e29e8757
+https://github.com/user-attachments/assets/4935137f-9744-493e-a18f-b1f9d33a074b
 
 **Video 2:** Successful inflation and deflation after resolving pneumatic configuration issues.
 
@@ -191,7 +191,6 @@ This design made the pneumatic system more intuitive and interactive while also 
 
 <br>
 
-https://github.com/user-attachments/assets/69ca33ed-98bc-4582-b321-57a3bda09b75
 
 **Video 3:** Demonstration of the final interactive system where different sides of the ultrasonic sensor control inflation and deflation of the pneumatic pillow.
 
