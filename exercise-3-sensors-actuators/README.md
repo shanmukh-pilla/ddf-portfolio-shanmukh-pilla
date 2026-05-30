@@ -191,6 +191,7 @@ This design made the pneumatic system more intuitive and interactive while also 
 
 <br>
 
+https://github.com/user-attachments/assets/57454c8c-ece4-4de7-b8a8-e46b13281946
 
 **Video 3:** Demonstration of the final interactive system where different sides of the ultrasonic sensor control inflation and deflation of the pneumatic pillow.
 
