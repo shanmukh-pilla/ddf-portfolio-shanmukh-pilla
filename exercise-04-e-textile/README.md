@@ -1,4 +1,4 @@
-# Exercise 04 – Blue Eye Mask (E-Textiles)
+# Exercise 04 – Blue Eye Mask (E-Textile)
 
 ## Objective
 
