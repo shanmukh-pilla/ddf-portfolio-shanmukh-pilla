@@ -75,6 +75,8 @@ After correcting the tubing arrangement and refining the actuator sequence, the 
 
 <br>
 
+https://github.com/user-attachments/assets/e74a0b01-6992-41c2-a799-c6a28ad7f51d
+
 **Video 1:** Initial testing stage where inflation worked correctly but deflation was unsuccessful.
 
 <br>
@@ -93,6 +95,8 @@ The final behaviour included:
 The successful implementation demonstrated the importance of understanding both electrical control and pneumatic behaviour when developing actuator-based systems.
 
 <br>
+
+https://github.com/user-attachments/assets/d19f7ef1-2010-409b-9411-1327e29e8757
 
 **Video 2:** Successful inflation and deflation after resolving pneumatic configuration issues.
 
@@ -186,6 +190,8 @@ This design made the pneumatic system more intuitive and interactive while also 
 </p>
 
 <br>
+
+https://github.com/user-attachments/assets/69ca33ed-98bc-4582-b321-57a3bda09b75
 
 **Video 3:** Demonstration of the final interactive system where different sides of the ultrasonic sensor control inflation and deflation of the pneumatic pillow.
 
