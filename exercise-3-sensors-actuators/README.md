@@ -50,7 +50,7 @@ Once the electrical circuit was functioning, I assembled the pneumatic circuit u
 <br>
 
 <p align="center">
-  <img src="images/pneumatic-circuit-setup.jpg" width="700">
+  <img src="images/pneumatic-circuit-setup.jpeg" width="400">
 </p>
 
 <p align="center">
@@ -145,7 +145,7 @@ The pneumatic system was connected to the inflatable pillow and tested repeatedl
 <br>
 
 <p align="center">
-  <img src="images/ultrasonic-sensor-integration.jpg" width="700">
+  <img src="images/ultrasonic-sensor-integration.jpeg" width="600">
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ This design made the pneumatic system more intuitive and interactive while also 
 <br>
 
 <p align="center">
-  <img src="images/ultrasonic-sensor-interaction.jpg" width="700">
+  <img src="images/ultrasonic-sensor-interaction.jpeg" width="340">
 </p>
 
 <p align="center">
