@@ -1,5 +1,5 @@
 # Digital Design and Fabrication Portfolio
-<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/8bce0d85-109c-4efc-a825-dea9486256c4" />
+<img width="1000" height="667" alt="ddf_thumbnail" src="https://github.com/user-attachments/assets/bb13b8e4-e44a-4862-90c5-e50ee1cc63cb" />
 
 
 
