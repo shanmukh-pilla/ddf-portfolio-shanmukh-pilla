@@ -44,7 +44,7 @@ The fabrication process also highlighted the relationship between digital design
 
 <br>
 
-https://github.com/user-attachments/assets/front-side-laser-cut
+https://github.com/user-attachments/assets/83f03ab2-6e53-4570-a712-b2fd1d63fdb2
 
 <p align="center">
   <em>Video 1: Laser engraving and cutting the front side of the business card.</em>
@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/front-side-laser-cut
 
 <br>
 
-https://github.com/user-attachments/assets/back-side-laser-cut
+https://github.com/user-attachments/assets/b01363a5-aa48-469e-b7de-9580826e1ba7
 
 <p align="center">
   <em>Video 2: Laser engraving the back side of the business card.</em>
@@ -76,7 +76,7 @@ Comparing the finished business card with the original Inkscape design showed th
 </p>
 
 <p align="center">
-  <em>Figure 3: Completed laser-cut business card showing the front and back of the final design.</em>
+  <em>Figure 2: Completed laser-cut business card showing the front and back of the final design.</em>
 </p>
 
 <br>
