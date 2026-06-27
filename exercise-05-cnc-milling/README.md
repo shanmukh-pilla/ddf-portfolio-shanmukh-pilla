@@ -1,4 +1,4 @@
-# Exercise 08: CNC Milling – Wooden Candle Holder
+# Exercise 05: CNC Milling – Wooden Candle Holder
 
 ## Overview
 
