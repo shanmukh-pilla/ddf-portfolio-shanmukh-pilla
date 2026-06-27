@@ -1,4 +1,7 @@
 # Digital Design and Fabrication Portfolio
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/8bce0d85-109c-4efc-a825-dea9486256c4" />
+
+
 
 ## Shanmukh Venkat Sai Kumar Pilla
 M.Sc. Engineering of Socio-Technical Systems  
