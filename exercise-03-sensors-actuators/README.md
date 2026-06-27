@@ -217,7 +217,7 @@ The exercise also encouraged creative thinking by exploring alternative uses for
 
 ---
 
-# Overall Conclusion
+# Conclusion
 
 This exercise successfully combined sensing, actuation, programming, and system integration into a single interactive project.
 
