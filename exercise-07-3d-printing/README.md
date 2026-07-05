@@ -153,6 +153,8 @@ To maximise printing stability, the model was positioned flat on the build plate
 
 Before exporting the print job, the estimated printing time and filament usage were reviewed to ensure that the accessory satisfied the material limitations specified for the exercise. After verifying the slicing configuration, the completed project was exported as a **3MF** file and submitted for printing.
 
+---
+
 ## Printed Prototype
 
 After the design files had been submitted, the accessory was fabricated using the laboratory's FDM 3D printer. Since the printing process was carried out separately during the laboratory session, the finished model was collected a few days later for evaluation.
