@@ -5,10 +5,16 @@ This exercise introduced the fundamentals of Arduino-based prototyping through t
 
 Unlike the previous exercise, which focused mainly on passive electrical circuits and transistor-based switching, this exercise introduced programmable electronics using the Arduino Uno platform. Through assembling and testing different sub-circuits, I learned how software and hardware work together in embedded systems.
 
-The exercise involved building and testing individual sub-circuits step-by-step before integrating them into a complete alarm clock system. Throughout the process, the circuits were assembled, programmed, debugged, and tested using the Arduino IDE, breadboard prototyping, and serial communication tools.
+The exercise involved building and testing individual sub-circuits step-by-step before integrating them into a complete alarm clock system. Developing the system incrementally made it easier to verify the functionality of each hardware module, identify wiring issues early, and understand how the individual components interact before assembling the complete embedded system.
 
 The following sections document the assembly process, observations, programming concepts, and reflections for each task.
 
+## System Architecture
+The alarm clock was developed incrementally by dividing the system into several independent sub-circuits before integrating them into a complete embedded application. This modular approach simplified testing and debugging, allowing each hardware component to be verified individually before combining them into the final system.
+
+The Arduino Uno served as the central controller, communicating with the LCD display and the Real Time Clock (RTC) module through the I²C communication bus while simultaneously reading the push button inputs and controlling the buzzer through digital output pins.
+
+After each individual module was tested successfully, all components were integrated into a single prototype capable of displaying the current time, configuring an alarm, and notifying the user when the alarm time was reached.
 
 ---
 
@@ -107,7 +113,12 @@ It was observed that the LCD can display information clearly while using only mi
 This task also provided practical understanding of LCD interfacing and display-based output systems in Arduino projects.
 
 ## Reflection
-This task improved my understanding of I2C communication and LCD interfacing using Arduino. Testing the LCD display and observing the output helped me better understand how embedded systems can present information visually through display modules.
+This task improved my understanding of I²C communication and LCD interfacing using Arduino. Testing the LCD display and observing the output helped me better understand how embedded systems can present information visually through display modules.
+
+## Understanding I²C Communication
+One important concept introduced during this task was the I²C communication protocol. Unlike standard digital communication, I²C allows multiple devices to share the same SDA (data) and SCL (clock) communication lines while communicating through their own unique device addresses.
+
+This approach reduced the wiring complexity of the project because both the LCD display and the RTC module shared the same communication bus while communicating through their respective device addresses.
 
 ---
 
@@ -226,7 +237,7 @@ This final task combined multiple electronic components, embedded programming co
 ## Circuit Integration
 The complete alarm clock system was assembled by integrating the RTC module, LCD display, buzzer, and push buttons into a single Arduino-based setup.
 
-The RTC module continuously provided real-time clock data to the Arduino through the I2C communication interface. The LCD display was used to display the current time, alarm configuration, and alarm status messages.
+The RTC module continuously provided real-time clock data to the Arduino through the I²C communication interface, while the LCD display received updated information through the same communication bus using its own device address.
 
 The push buttons were configured for different alarm operations:
 - **Red Button** → Open alarm setup menu
@@ -235,6 +246,13 @@ The push buttons were configured for different alarm operations:
 - **Final Alarm State** → Trigger buzzer and display alarm notification
 
 The Arduino continuously monitored the RTC time and compared it with the configured alarm time. When both values matched, the buzzer was activated and the LCD displayed the alarm notification.
+
+## Software Logic
+The complete alarm clock operates as a continuous monitoring system. During each iteration of the main program loop, the Arduino reads the current time from the RTC module, updates the LCD display, checks the state of the push buttons, and compares the current time with the configured alarm time.
+
+Whenever a push button is pressed, the corresponding alarm settings are updated immediately and displayed on the LCD screen. Once the current RTC time matches the configured alarm time, the Arduino activates the buzzer and updates the LCD with the alarm notification until the alarm is acknowledged.
+
+Separating the program into independent functional blocks for time acquisition, display updates, user input handling, and alarm control simplified both testing and debugging throughout the implementation process.
 
 ---
 
@@ -348,6 +366,15 @@ https://github.com/user-attachments/assets/d0bc3aba-67f6-4084-85b2-5c07d9d57699
 
 ---
 
+## Implementation Challenges
+Integrating multiple hardware modules into a single embedded system required careful wiring and systematic testing. Since several components shared the same breadboard and power rails, even small wiring mistakes occasionally prevented the system from operating correctly.
+
+During development, individual modules were tested independently before integrating them into the final alarm clock. This incremental approach simplified troubleshooting and made it easier to identify incorrect connections or communication issues without affecting the entire system.
+
+Testing each sub-circuit separately before combining them also improved the overall reliability of the final prototype and reduced debugging time during system integration.
+
+As additional modules were integrated, it became increasingly important to verify that existing functionality continued to operate correctly. Testing the system after each integration step helped identify wiring issues and ensured that newly added components did not interfere with the behaviour of the overall system.
+
 ## Observations
 During testing, the alarm clock system successfully performed all required operations:
 - Real-time clock monitoring
@@ -367,7 +394,7 @@ This final task provided practical experience in designing and implementing a co
 Through this project, I improved my understanding of:
 - Real-time embedded programming
 - Multi-component hardware integration
-- LCD communication using I2C
+- LCD communication using I²C
 - RTC interfacing
 - Push button input handling
 - Alarm logic implementation
@@ -375,9 +402,13 @@ Through this project, I improved my understanding of:
 
 The exercise also demonstrated how individual electronic modules can be combined to create a fully interactive and functional real-world application.
 
+Developing the alarm clock also demonstrated the importance of incremental system design, where complex embedded systems are built by first validating individual modules before integrating them into a complete application. This approach improved the reliability of the final prototype and highlighted the importance of systematic testing throughout the development process.
+
+Overall, this exercise strengthened my practical understanding of embedded systems by combining hardware assembly, communication protocols, user interaction, and software development into a single functional prototype.
+
 ---
 
 ## Conclusion
 The final alarm clock system successfully integrated all sub-circuit functionalities into a single embedded application capable of displaying time, configuring alarms, and triggering notifications automatically.
 
-This exercise strengthened practical knowledge of Arduino programming, hardware interfacing, real-time systems, and interactive embedded design. It also provided hands-on experience in developing a complete prototype by combining sensors, displays, user inputs, and output devices into one functional system.
+This exercise strengthened my practical knowledge of Arduino programming, hardware interfacing, real-time systems, and interactive embedded design. It also reinforced the importance of modular system development, systematic testing, and hardware–software integration in the development of reliable embedded applications.
