@@ -2,7 +2,7 @@
 
 ## Overview
 
-This exercise was about designing a simple phone stand using Onshape and preparing it for 3D printing. Before starting the design, I completed the required Onshape self-study modules. After finishing the model, I prepared it for 3D printing using QIDI Studio. Finally, I tested the printed phone stand using my phone and tablet.
+This exercise was about designing a simple phone stand using Onshape and preparing it for 3D printing. Before starting the design, I completed the required Onshape self-study modules. After finishing the model, I prepared it for 3D printing using QIDI Studio and submitted it for printing. Finally, I tested the printed phone stand using my phone and tablet.
 
 ---
 
@@ -44,7 +44,7 @@ I decided to design a simple phone stand because I wanted something that I could
 
 ## Preparing the Model for Printing
 
-After finishing the model, I prepared it for 3D printing using QIDI Studio. I used the default slicing settings and generated the print file without making any major changes. After checking the slicing preview, I submitted the file for printing..
+After finishing the model, I prepared it for 3D printing using QIDI Studio. I used the default slicing settings and generated the print file without making any major changes. After checking the slicing preview, I submitted the file for printing.
 
 <br>
 
