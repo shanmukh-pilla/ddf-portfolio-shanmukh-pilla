@@ -60,7 +60,7 @@ After finishing the model, I prepared it for 3D printing using QIDI Studio. I us
 
 ---
 
-## Printed Model
+## Final Printed Model
 
 The final printed model matched the CAD design well, and the overall print quality was good. It was nice to see the digital model become a physical object for the first time.
 
